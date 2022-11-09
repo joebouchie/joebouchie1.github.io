@@ -1,1 +1,2 @@
-# joebouchie1.github.io
+# Math421 Statistical Analysis with R!
+
